@@ -37,9 +37,11 @@ const Layout = ({ children }) => {
         <footer style={{
           marginTop: `2rem`
         }}>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          © {new Date().getFullYear()}, Abhay Yadav | MS. ORTHOPEDIC AND SPINE SURGEON
+          <br />
+          {`Contact: +977-9851116135 | Email: yabhay@yahoo.com `}
+          <br />
+          <a href="https://www.vayodhahospitals.com/">VAYODHA HOSPITAL</a>
         </footer>
       </div>
     </>

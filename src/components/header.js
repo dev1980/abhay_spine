@@ -15,7 +15,7 @@ const Header = ({ siteTitle }) => (
         maxWidth: 960,
         padding: `1.45rem 1.0875rem`,
       }}
-    >
+     >
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"
@@ -36,7 +36,7 @@ Header.propTypes = {
 }
 
 Header.defaultProps = {
-  siteTitle: ``,
+  siteTitle: `MS. ORTHOPEDIC AND SPINE SURGEON`,
 }
 
 export default Header
