@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
           <br />
           {`Contact: +977-9851116135 | Email: yabhay@yahoo.com `}
           <br />
-          <a href="https://www.vayodhahospitals.com/">VAYODHA HOSPITAL</a>
+          <a href="https://www.vayodhahospitals.com/Doctor/spine-surgeon-orthopedic-surgeon-dr-abhay-yadav/">VAYODHA HOSPITAL</a>
         </footer>
       </div>
     </>

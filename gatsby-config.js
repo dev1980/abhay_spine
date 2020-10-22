@@ -1,8 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `ORTHOPEDIC AND SPINE SURGEON`,
-    description: `Nepal orthopedic hospital, orthopedic, spine, surgeon, vayodha hospital, orthopedic doctor in vayodha hospital, orthopedic doctor in nepal, orthopedic doctor in kathmandu, Ms. orthopedic and spine surgeon, dr abhay yadav`,
-    author: `@Brham`,
+    title: `Dr. Abhay Yadav, one of the best orthopedic and spine surgeon`,
+    titleTemplate: "%s · one of the best orthopedic and spine surgeon",
+    description: `Dr. Abhay Yadav Best Orthopedic and Spine Surgeon in Kathmandu at vayodha hospital & Nepal Korea Friendship Municipality Hospital (NKFMH) at Bhaktapur Thimi, Nepal, Best Orthopedic Surgeon in Kathmandu, Best Spine Surgeon in Kathmandu,  orthopedic specialties such as sports medicine, trauma, joint replacement, pediatrics, spine, shoulder and elbow, foot and ankle and hand.`,
+    twitterUsername: "@drabhay",
+    url: "https://www.abhayspine.com", // No trailing slash allowed!
+    image: "/images/abhay.png", // Path to your image you placed in the 'static' folder
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
